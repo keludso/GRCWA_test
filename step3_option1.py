@@ -1,4 +1,4 @@
-"""Transmission and reflection of two patterned layers"""
+"""Transmission and reflection of two patterned layers to get R->0 and T_> 1 for both polarization"""
 
 import grcwa
 import numpy as np
